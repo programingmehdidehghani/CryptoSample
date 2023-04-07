@@ -1,6 +1,8 @@
 package com.example.cryptosample.util.extensions
 
 import android.annotation.SuppressLint
+import java.text.DecimalFormat
+import java.text.SimpleDateFormat
 import java.util.*
 
 fun String?.emptyIfNull(): String {
