@@ -3,6 +3,7 @@ package com.example.cryptosample.util
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import com.example.cryptosample.R
+import com.example.cryptosample.util.extensions.trimParanthesis
 
 object UIHelper {
     fun showChangePercent(textView: TextView, _change: Double?) {
