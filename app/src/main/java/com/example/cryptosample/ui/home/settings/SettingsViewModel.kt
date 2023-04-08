@@ -1,4 +1,4 @@
-package com.example.cryptosample.ui.settings
+package com.example.cryptosample.ui.home.settings
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

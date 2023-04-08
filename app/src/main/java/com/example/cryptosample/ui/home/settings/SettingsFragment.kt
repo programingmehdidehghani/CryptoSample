@@ -1,4 +1,4 @@
-package com.example.cryptosample.ui.settings
+package com.example.cryptosample.ui.home.settings
 
 import android.os.Bundle
 import android.view.LayoutInflater

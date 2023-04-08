@@ -1,4 +1,4 @@
-package com.example.cryptosample.ui.favoruites
+package com.example.cryptosample.ui.home.favoruites
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

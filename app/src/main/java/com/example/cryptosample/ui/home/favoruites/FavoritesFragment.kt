@@ -1,4 +1,4 @@
-package com.example.cryptosample.ui.favoruites
+package com.example.cryptosample.ui.home.favoruites
 
 import android.content.Intent
 import android.os.Bundle
