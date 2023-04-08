@@ -11,6 +11,7 @@ import com.example.cryptosample.R
 import com.example.cryptosample.core.common.MainNavigationFragment
 import com.example.cryptosample.databinding.FragmentFavoritesBinding
 import com.example.cryptosample.util.Constants
+import com.example.cryptosample.util.extensions.doOnChange
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.fragment_favorites.*
 
