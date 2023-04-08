@@ -13,8 +13,10 @@ import com.example.cryptosample.core.common.BaseActivity
 import com.example.cryptosample.core.common.NavigationHost
 import com.example.cryptosample.util.ThemeHelper
 import com.example.cryptosample.util.ThemeMode
+import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.activity_main.*
 
+@AndroidEntryPoint
 class HomeActivity : BaseActivity(),
     NavigationHost {
 
