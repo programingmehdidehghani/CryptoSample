@@ -3,8 +3,8 @@ package com.example.cryptosample.core.common
 import android.content.Context
 import android.os.Bundle
 import android.view.View
-import android.widget.Toolbar
 import com.example.cryptosample.R
+import androidx.appcompat.widget.Toolbar
 
 interface NavigationHost {
     fun registerToolbarWithNavigation(toolbar: Toolbar)

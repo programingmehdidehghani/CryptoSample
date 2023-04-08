@@ -49,7 +49,8 @@ class HomeActivity : BaseActivity(),
     }
 
     //Callback method to update the toolbar's title based on the selected bottom tab
-    override fun registerToolbarWithNavigation(toolbar: android.widget.Toolbar) {
+
+    override fun registerToolbarWithNavigation(toolbar: Toolbar) {
         toolbar.setupWithNavController(navController, appBarConfiguration)
     }
 }
