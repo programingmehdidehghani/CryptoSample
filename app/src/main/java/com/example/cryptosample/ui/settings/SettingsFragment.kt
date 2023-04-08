@@ -9,6 +9,7 @@ import com.example.cryptosample.core.common.MainNavigationFragment
 import com.example.cryptosample.databinding.FragmentSettingsBinding
 import com.example.cryptosample.util.ThemeHelper
 import com.example.cryptosample.util.ThemeMode
+import com.example.cryptosample.util.extensions.doOnChange
 import dagger.hilt.android.AndroidEntryPoint
 import timber.log.Timber
 
